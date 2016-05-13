@@ -1,0 +1,35 @@
+{
+  "name": "correoschile",
+  "version": "0.1.0",
+  "description": "Check shipping status in correoschile",
+  "author": {
+    "name": "Victor San Martin",
+    "email": "vsanmartinm@gmail.com",
+    "url": "victorsanmartin.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "shipping",
+    "tracking",
+    "correoschile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/quest/correoschile.git"
+  },
+  "main": "./index.js",
+  "files": [
+    "index.js"
+  ],
+  "engines": {
+    "node": ">= 0.6"
+  },
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  },
+  "bugs": {
+    "url": "https://github.com/quest/correoschile/issues"
+  },
+  "homepage": "https://github.com/quest/correoschile#readme"
+}
