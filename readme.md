@@ -11,7 +11,7 @@ npm i --save correoschile
 ## Usage
 
 ```js
-var chilexpress = require('chilexpress');
+var correoschile = require('correoschile');
 
 correoschile('111111111111')
     .then(function(res){
